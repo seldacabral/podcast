@@ -1,13 +1,13 @@
 # 🎙️ PODCAST: InfoImpact  
 
 ## 📒 Descrição  
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.  
+Este podcast proporciona uma visão concisa, mas detalhada, sobre o universo das IAs Generativas e seu impacto nas tecnologias atuais.
 
 ## 🤖 Tecnologias Utilizadas  
-- **[Gencraft](https://gencraft.com/)** para geração de imagens da capa do podcast;  
-- **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;  
-- **[ElevenLabs](https://elevenlabs.io)** para clonagem e sintetização de voz;  
-- **[Canva](https://www.canva.com/)** para criação do avatar virtual e design gráfico.  
+- **[Gencraft](https://gencraft.com/)** 
+- **[ChatGPT](https://chat.openai.com)**  
+- **[ElevenLabs](https://elevenlabs.io)**  
+- **[Canva](https://www.canva.com/)** 
 
 ## 🧐 Processo de Criação  
 - Utilizei o **ChatGPT** para produzir o texto e revisar o roteiro do podcast.  
@@ -15,4 +15,6 @@ Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 - A capa do podcast foi gerada no **Gencraft**.  
 - A síntese de voz foi realizada no **ElevenLabs**.  
 
-🔗 **[Acesse o Podcast aqui](https://github.com/seldacabral/podcast)**  
+🔗 **[Acesse o Podcast aqui](https://github.com/seldacabral/podcast)**
+![Capa do Podcast](https://github.com/seldacabral/podcast/blob/main/Dark%20Blue%20and%20White%20Simple%20Podcast%20Cover.png) 
+
